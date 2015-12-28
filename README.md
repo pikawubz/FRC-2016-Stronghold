@@ -1,2 +1,2 @@
 # FRC-2016-STRONGHOLD
-Tough Techs code for the 2016 FRC season (Stronghold).
+Tough Techs code for FRC 2016: Stronghold.
